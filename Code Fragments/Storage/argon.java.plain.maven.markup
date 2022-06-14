@@ -1,0 +1,5 @@
+&lt;dependency&gt;
+&lt;groupId&gt;de.mkammerer&lt;/groupId&gt;
+&lt;artifactId&gt;argon2-jvm&lt;/artifactId&gt;
+&lt;version&gt;2.6&lt;version&gt;
+&lt;dependency&gt;

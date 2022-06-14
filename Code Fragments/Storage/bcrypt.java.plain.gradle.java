@@ -1,0 +1,1 @@
+compile group: 'org.mindrot', name: 'jbcrypt', version: '0.4'

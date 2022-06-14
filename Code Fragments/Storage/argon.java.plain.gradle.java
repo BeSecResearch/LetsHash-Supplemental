@@ -1,0 +1,1 @@
+compile group: 'de.mkammerer', name: 'argon2-jvm', version: '2.6'
