@@ -6,6 +6,7 @@ There was also a significant difference between those two groups for the number 
 
 
 Table 1: Overview over the results of additional Wilcoxon-Rank-Sum tests comparing usability measures for submissions with and without errors  
+
 | Task                    | DV     | IV                | $$\mathcal{W}$$ | *r*      | *p*-value        | *cor - p*-value        |
 |-------------------------|--------|-------------------|-----------------|----------|------------------|------------------------|
 | Password Storage        | SUS    | Achieved Security | 946             | 0.012    | 0.041*           | 0.165                  |
@@ -17,4 +18,5 @@ Table 1: Overview over the results of additional Wilcoxon-Rank-Sum tests compari
 | 2-Factor Authentication | SUS    | Achieved Security | 1393            | 0.023    | 0.001*           | 0.006*                 |
 | 2-Factor Authentication | time   | Achieved Security | 1418            | 0.025    | 0.001*           | 0.004*                 |
 | 2-Factor Authentication | clicks | Achieved Security | 1558            | 0.035    | <0.001*          | <0.001*                |
+
 IV: Independent Variable; DV: Dependent Variable; $\mathcal{W}$: Wilcoxon-$\mathcal{W}$; *r*: Effect size (Pearson's *r*); *cor - p*-value: *p*-value, Bonferroni-Holm corrected; tests marked with *: statistically significant  
